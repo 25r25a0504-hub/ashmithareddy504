@@ -1,4 +1,5 @@
 hi this ashmitha
 welcome to devops lab 
 we are launched ec2 instance to coonect with github
+successfully completed week 5 lab
 
